@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "spfx-leave-mgmt-sys",
+    "libraryId": "ee7daa31-5e77-4a50-b87d-d5564592cd78",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spfx-leave-mgmt-sys",
+    "solutionShortDescription": "spfx-leave-mgmt-sys description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

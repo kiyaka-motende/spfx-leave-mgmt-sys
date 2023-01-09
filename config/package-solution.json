@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-leave-mgmt-sys-client-side-solution",
+    "id": "ee7daa31-5e77-4a50-b87d-d5564592cd78",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "spfx-leave-mgmt-sys description"
+      },
+      "longDescription": {
+        "default": "spfx-leave-mgmt-sys description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-leave-mgmt-sys Feature",
+        "description": "The feature that activates elements of the spfx-leave-mgmt-sys solution.",
+        "id": "2638c5c9-5d61-495e-b7bc-af09d642ae2a",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-leave-mgmt-sys.sppkg"
+  }
+}
